@@ -1,6 +1,6 @@
-owner=«Ï œÏ Õﬁﬂ
-prefix=!
-game=Me | !play
+owner=438390620982345744
+prefix=3
+game=Nabarat
 stayinchannel=true
 songinstatus=false
-token= ‹‹‹Êﬂ‹‹‹‰ »‹‹Ê ‹ﬂ
+token=NDcwMTQ1OTIwOTY5NzM2MjEy.D3ASHw.b_uwT8Q8i-R4gh9eKUPkAzLRmH4
