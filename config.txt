@@ -1,6 +1,6 @@
-owner=438390620982345744
-prefix=3
-game=Nabarat
+owner=714762296739495996
+prefix=cl
+game=clhelp .
 stayinchannel=true
 songinstatus=false
-token=NDcwMTQ1OTIwOTY5NzM2MjEy.D3ASHw.b_uwT8Q8i-R4gh9eKUPkAzLRmH4
+token=OTQwMjMzMjIyMzA0OTcyODAx.YgEabA.CZ6Yng3YafT_p0InQ-VfpfqWO_I
